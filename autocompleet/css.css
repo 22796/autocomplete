@@ -1,0 +1,39 @@
+html, body{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+
+#landen {
+  font-size: 1.5em;
+  width: 15em;
+  border-radius: 1em;
+  padding: 0.1em 0.5em;
+}
+
+#helper {
+  font-size: 1.5em;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+span{
+  margin: 0 auto;
+  display: block;
+  width: 40%;
+  text-decoration: none;
+  background-color: grey;
+  color: #fff;
+  text-align: left;
+  padding-left: 0.2em;
+  margin-left: 100%;
+  border-style: solid;
+  border-color: black;
+  border-top: 1px; border-bottom: 1px;
+}
+span:hover{
+  background-color: lightgray;
+  cursor: pointer;
+}
